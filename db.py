@@ -12,6 +12,9 @@ mysql= mysql.connector.connect(
     password = 'ABHYUDAIsingh9', 
     )
 
+
+##test    
+
 cursor = mysql.cursor()
 
 cursor.execute("use axs7941;")
