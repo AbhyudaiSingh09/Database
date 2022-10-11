@@ -1,0 +1,12 @@
+mysql> source MYSQL_Schema.sql
+Query OK, 0 rows affected (0.09 sec)
+
+Query OK, 0 rows affected (0.12 sec)
+
+Query OK, 0 rows affected (0.13 sec)
+
+Query OK, 0 rows affected (0.09 sec)
+
+Query OK, 0 rows affected (0.10 sec)
+
+mysql> \t
